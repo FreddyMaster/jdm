@@ -2021,6 +2021,16 @@
             "deezer.com"
         ]
     },
+    
+    {
+        "name": "Deeezy",
+        "url": "https://deeezy.com/account/profile",
+        "difficulty": "medium",
+        "notes": "Scroll down in My Profile and click Delete my account and click on the link in the conformation email.",
+        "domains": [
+            "deeezy.com"
+        ]
+    },
 
     {
         "name": "Delivery Code",
