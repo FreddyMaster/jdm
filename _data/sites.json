@@ -1532,7 +1532,7 @@
             "cnet.com"
         ]
     },
-
+    
     {
         "name": "Code Red",
         "url": "https://cne.coderedweb.com",
@@ -1545,6 +1545,14 @@
         "notes_es": "No podrá eliminar la cuenta. Solo puedes cambiar tu número de teléfono a un falso.",
         "domains": [
             "coderedweb.com"
+    
+    {
+        "name": "cubebrush.co",
+        "url": "https://cubebrush.co/settings/base",
+        "difficulty": "easy",
+        "notes": "Scroll down in settings and click delete account.",
+        "domains": [
+            "cubebrush.co"
         ]
     },
 
